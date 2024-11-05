@@ -12,7 +12,7 @@ pip install instaloader
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Tiagopalmeira/instagram-scraper.git
 
 
 2. Navegue até o diretório do projeto:
