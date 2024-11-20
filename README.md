@@ -1,4 +1,4 @@
-﻿# Instagram Post Scraper
+﻿# Instagram scrapping
 
 Este é um projeto simples em Python para fazer requisições à API do Instagram e filtrar postagens através do número de likes.
 
