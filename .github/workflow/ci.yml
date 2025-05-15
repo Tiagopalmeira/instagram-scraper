@@ -6,7 +6,7 @@ on:
   push:              # Quando um push for feito
     branches: [ dev ]  # ... na branch "main"
   pull_request:      # Ou quando for aberta uma pull request
-    branches: [ dev ]  # ... com destino à branch "main"
+    branches: [ main ]  # ... com destino à branch "main"
 
 # Definição dos jobs (tarefas) que vão rodar
 jobs:
